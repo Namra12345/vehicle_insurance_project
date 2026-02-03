@@ -105,7 +105,7 @@
         AWS console >> Go to ECR >> Region: us-east-1 >> Hit create repository >>
         repo name: vehicleproj >> hit create repository >> copy and keep uri
       * Now create EC2 Ubuntu server >> AWS console >> EC2 >> Launch Instance >> name: vehicledata-machine
-        >> Image: Ubuntu >> AMI: Ubuntu Server 24.04 (free tier) >> Instance: T2 Medium (~chargeable-3.5rs/hr)
+        >> Image: Ubuntu >> AMI: Ubuntu Server 24.04 (free tier) >> Instance: T3 Micro (~chargeable)
         >> create new key pair (name: proj1key) >> allow for https and http traffic >> storage: 30gb >> Launch
         >> Go to instance >> click on "Connect" >> Connect using EC2 Instance Connect 
         >> Connect (Terminal will be launched) 
