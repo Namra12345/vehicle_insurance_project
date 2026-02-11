@@ -132,14 +132,6 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 1. Open the 5080 port on the EC2 instance.
 2. Access the deployed app by visiting `http://<public_ip>:5080`.
 
----
-
-## 🛠️ Additional Resources
-- **Crash Course on setup.py and pyproject.toml**: See `crashcourse.txt` for details.
-- **GitHub Secrets**: Manage secrets for secure CI/CD pipelines.
-
----
-
 ## 🎯 Project Workflow Summary
 
 1. **Data Ingestion** ➔ **Data Validation** ➔ **Data Transformation**
@@ -147,10 +139,3 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 3. **CI/CD Automation** with GitHub Actions, Docker, AWS EC2, and ECR
 
 ---
-
-## 💬 Connect
-If you found this project helpful or have any questions, feel free to reach out!
-
----
-
-This README provides a structured walkthrough of the MLOps project, showcasing the end-to-end pipeline, cloud integration, CI/CD setup, and robust data handling capabilities.
