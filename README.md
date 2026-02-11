@@ -11,7 +11,6 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ### Step 2: Package Management
 - Write the setup for importing local packages in `setup.py` and `pyproject.toml` files.
-- **Tip**: Learn more about these files from `crashcourse.txt`.
 
 ### Step 3: Virtual Environment and Dependencies
 - Create a virtual environment and install required dependencies from `requirements.txt`:
