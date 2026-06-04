@@ -142,4 +142,4 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ### Video of Working Project
 
-link:https://drive.google.com/file/d/1NpdhHewiLTN_bh6Jj3ow5U1AASQzyHN3/view?usp=drivesdk 
+link:https://drive.google.com/file/d/1aJ6YmL4ZtVDz3-apZlo17HQBPeiV-aXO/view?usp=drivesdk
