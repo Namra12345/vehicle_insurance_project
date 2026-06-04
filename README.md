@@ -139,3 +139,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 3. **CI/CD Automation** with GitHub Actions, Docker, AWS EC2, and ECR
 
 ---
+
+### Video of Working Project
+
+**link:**https://drive.google.com/file/d/1NpdhHewiLTN_bh6Jj3ow5U1AASQzyHN3/view?usp=drivesdk 
