@@ -130,7 +130,7 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ### Step 18: Final Steps
 1. Open the 5000 port on the EC2 instance.
-2. Access the deployed app by visiting `http://<public_ip>:5000`.
+2. Access the deployed app by visiting `http://98.91.235.104:5000`.
 
 ## 🎯 Project Workflow Summary
 
@@ -142,4 +142,4 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ### Video of Working Project
 
-**link:**https://drive.google.com/file/d/1NpdhHewiLTN_bh6Jj3ow5U1AASQzyHN3/view?usp=drivesdk 
+link:https://drive.google.com/file/d/1NpdhHewiLTN_bh6Jj3ow5U1AASQzyHN3/view?usp=drivesdk 
